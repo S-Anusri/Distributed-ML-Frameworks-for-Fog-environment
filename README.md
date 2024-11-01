@@ -1,4 +1,4 @@
-# DistributedFrameworks
+# Distributed ML Frameworks for Fog environment
 This Repository contains various datasets used in the project of implementing different distributed frameworks for ML in the context of a fog environment.
 
 The main datasets are:
