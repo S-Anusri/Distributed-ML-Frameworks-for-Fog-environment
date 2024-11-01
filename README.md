@@ -1,8 +1,8 @@
 # DistributedFrameworks
-This Repository contains the csv files for various datasets used in the project of implementing different distributed frameworks for ML.
+This Repository contains various datasets used in the project of implementing different distributed frameworks for ML in the context of a fog environment.
 
 The main datasets are:
-1. Iris - 3 class classification (iris_train.csv and iris_test.csv)
-2. Fire - Forest Fire prediction - 4 class classification
-3. MNIST dataset and
-4. Algal Bloom in Artificial Water sources
+1. Iris - 3 class classification (iris folder)
+2. Forest Fire prediction - 4 class classification (fire folder)
+3. MNIST Dataset -  10 class classification  (links: https://pjreddie.com/media/files/mnist_test.csv and https://pjreddie.com/media/files/mnist_train.csv) and
+4. Algal Bloom in Artificial Water sources (algae folder)
